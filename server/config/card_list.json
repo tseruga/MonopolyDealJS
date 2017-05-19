@@ -1,0 +1,73 @@
+[
+    {
+      "name": "1Million",
+      "type": "money",
+      "value": 1,
+      "imageName": "1million.jpg",
+      "quantity": 100
+    },
+    {
+      "name": "2Million",
+      "type": "money",
+      "value": 2,
+      "imageName": "2million.jpg",
+      "quantity": 5
+    },
+    {
+      "name": "3Million",
+      "type": "money",
+      "value": 3,
+      "imageName": "3million.jpg",
+      "quantity": 3
+    },
+    {
+      "name": "4Million",
+      "type": "money",
+      "value": 4,
+      "imageName": "4million.jpg",
+      "quantity": 3
+    },
+    {
+      "name": "5Million",
+      "type": "money",
+      "value": 5,
+      "imageName": "5million.jpg",
+      "quantity": 2
+    },
+    {
+      "name": "10Million",
+      "type": "money",
+      "value": 10,
+      "imageName": "10million.jpg",
+      "quantity": 1
+    },
+    {
+      "name": "AtlanticAvenue",
+      "type": "property",
+      "color": "Yellow",
+      "value": 3,
+      "imageName": "atlanticavenue.jpg",
+      "quantity": 1
+    },
+    {
+      "name": "ItsMyBirthday",
+      "type": "action",
+      "value": 2,
+      "imageName": "itsmybirthday.jpg",
+      "quantity": 3
+    },
+    {
+      "name": "SlyDeal",
+      "type": "action",
+      "value": 3,
+      "imageName": "slydeal.jpg",
+      "quantity": 1
+    },
+    {
+      "name": "PassGo",
+      "type": "action",
+      "value": 1,
+      "imageName": "passgo.jpg",
+      "quantity": 1
+    }
+]
